@@ -1,0 +1,21 @@
+//==============
+Aqui fica apenas regra de negócio.
+//==============
+Nada de Spring.
+
+Nada de JPA.
+
+Nada de Controller.
+//==============
+domain
+
+entity
+
+repository
+
+valueobject
+
+exception
+
+service
+//==============

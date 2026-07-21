@@ -1,0 +1,19 @@
+//==============
+Application
+//==============
+usecase
+
+dto
+
+mapper
+
+Aqui ficam os casos de uso.
+//==============
+Exemplo
+//==============
+CadastrarFornecedorUseCase
+
+CadastrarProdutoUseCase
+
+ImportarNotaUseCase
+//==============
