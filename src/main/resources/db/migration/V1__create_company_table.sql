@@ -7,6 +7,7 @@ CREATE TABLE companies (
                            municipal_registration VARCHAR(30),
                            email VARCHAR(255),
                            phone VARCHAR(20),
+                           active VARCHAR(1),
                            status VARCHAR(20) NOT NULL DEFAULT 'ACTIVE',
                            created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
                            updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
